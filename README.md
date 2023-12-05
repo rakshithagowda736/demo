@@ -1,4 +1,4 @@
 # demo
 first git repository
 <br>
-Author- Rakshitha kKrishna
+Author- Rakshithaa_Krishna
